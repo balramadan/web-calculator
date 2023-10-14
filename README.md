@@ -1,2 +1,2 @@
-# web-calculator
-Hasil dari pembelajaran secara online di kursus Dicoding, yaitu membuat sebuah web calculator
+# Simple Web Calculator
+The result of online learning in the Dicoding course, which is to create a web calculator
